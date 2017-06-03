@@ -1,0 +1,43 @@
+body {
+	text-align: center;
+
+		
+}
+#du {
+	background-color: #35456c;
+	height: 205px;
+	text-align: left;
+	font-family: "Arial Black", Gadget, sans-serif;
+	vertical-align: text-bottom;
+	font-size: 159px;
+}
+#de {
+	border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 50%;
+    width: 200px; 
+    height: 200px;
+    margin: auto;
+    margin-top: 10px;
+    background-image: url("http://media1.giphy.com/media/I2sZ6qckkhfLG/giphy.gif");
+    background-size: cover; 
+    background-color: #35456c;
+}
+a {
+	font-size: 30px
+}
+
+#doo{
+	font-size: 30px;
+	background-color: #35456c;
+	vertical-align: bottom; 
+	margin-top: 10px;
+}
+#Bee {
+	   margin-top: 10px;
+}
+
+#dee {
+	   margin-top: 10px;
+}
